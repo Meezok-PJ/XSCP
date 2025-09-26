@@ -1,11 +1,5 @@
 
-
----
-
-
-
 # XScp - Simple SCP Tool
-
 **XScp** is a multi-functional SCP (Secure Copy Protocol) tool designed to make file transfers to remote SSH servers easier and more user-friendly.
 
 ---
