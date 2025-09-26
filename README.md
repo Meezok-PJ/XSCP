@@ -3,7 +3,7 @@
 **XScp** is a multi-functional SCP (Secure Copy Protocol) tool designed to make file transfers to remote SSH servers easier and more user-friendly.
 
 ---
-![[Pasted image 20250927001928.png]]
+![1.ping](1.png)
 
 ***
 
