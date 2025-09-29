@@ -78,10 +78,6 @@ venv\Scripts\activate.bat
 
 #### Install required packages:
 
-```bash
-pip install -r requirements.txt
-```
-
 > Required package: `Flask` for Web UI.
 
 #### Deactivate environment:
